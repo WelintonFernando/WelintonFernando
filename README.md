@@ -16,7 +16,6 @@ Sou Welinton Fernando, atualmente cursando o 4° período de Bacharelado em Ciê
 
 ### >>> Stats <<<
 [![Welinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=WelintonFernando)](https://github.com/WelintonFernando/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonFernando)](https://github.com/WelintonFernando/github-readme-stats)   
 
 
 ## ⚙️ Linguagens de Programação
