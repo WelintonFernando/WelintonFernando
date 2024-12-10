@@ -26,11 +26,10 @@ Sou Welinton Fernando, atualmente cursando o 4° período de Bacharelado em Ciê
 - Java  
 - JavaScript  
 - Python  
-- HTML/CSS  
 - Lua  
 
 ## 🛠️ Ferramentas
-
+- HTML/CSS  
 - Git
 - GitHub  
 - Selenium  
