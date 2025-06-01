@@ -3,7 +3,7 @@
 
 Olá, obrigado por visitar meu perfil no Github!
 
-Sou Welinton Fernando, atualmente cursando o 4° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
+Sou Welinton Fernando, atualmente cursando o 5° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
 
 ## ⌛ Interesses
 
@@ -37,6 +37,7 @@ Sou Welinton Fernando, atualmente cursando o 4° período de Bacharelado em Ciê
 
 ## 💾 Banco de Dados
 - MySql  
+- PostgreSQL
   
 ## 🐧 Sistemas Operacionais
 - Windows
