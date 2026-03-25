@@ -3,7 +3,8 @@
 
 Olá, obrigado por visitar meu perfil no Github!
 
-Sou Welinton Fernando, atualmente cursando o 5° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
+Sou Welinton Fernando, atualmente cursando o 7° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
+Participo do projeto de iniciação científica: Monitoramento Contínuo de Incêndios na Área de Proteção Ambiental da Chapada dos Guimarães em Mato Grosso
 
 ## ⌛ Interesses
 
@@ -26,7 +27,7 @@ Sou Welinton Fernando, atualmente cursando o 5° período de Bacharelado em Ciê
 - Java  
 - JavaScript  
 - Python  
-- Lua  
+- Go
 
 ## 🛠️ Ferramentas
 - HTML/CSS  
