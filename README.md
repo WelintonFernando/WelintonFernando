@@ -3,12 +3,13 @@
 
 Olá, obrigado por visitar meu perfil no Github!
 
-Sou Welinton Fernando, atualmente cursando o 7° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
-Participo do projeto de iniciação científica: Monitoramento Contínuo de Incêndios na Área de Proteção Ambiental da Chapada dos Guimarães em Mato Grosso
+Sou Welinton Fernando, atualmente cursando o 8° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
+Participo do projeto de iniciação científica: Monitoramento Contínuo de Incêndios na Área de Proteção Ambiental da Chapada dos Guimarães em Mato Grosso  ### há 2 anos!!! 
 
 ## ⌛ Interesses
 
 - Game Development  
+- Sensoriamento Remoto
 - Arte  
 - Música  
 - Modelagem 3D
@@ -23,22 +24,31 @@ Participo do projeto de iniciação científica: Monitoramento Contínuo de Inc�
 ## ⚙️ Linguagens de Programação
 
 - Assembly  
-- C  
+- C
+- GdScript
+- Go
 - Java  
 - JavaScript  
-- Python  
-- Go
+- Python
+- R
+- Typescript
 
 ## 🛠️ Ferramentas
-- HTML/CSS  
-- Git
-- GitHub  
-- Selenium  
-- Blender  
 
+- Asta UML  
+- Blender  
+- Excel  
+- Ferramentas de IA em geral (inclusive painéis como comfyui)  
+- Git  
+- GitHub
+- Grass GIS  
+- HTML/CSS  
+- QGIS  
+- Selenium  
+ 
 ## 💾 Banco de Dados
 - MySql  
-- PostgreSQL
+- PostgreSQL  
   
 ## 🐧 Sistemas Operacionais
 - Windows
