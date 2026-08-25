@@ -4,7 +4,7 @@
 Olá, obrigado por visitar meu perfil no Github!
 
 Sou Welinton Fernando, atualmente cursando o 8° período de Bacharelado em Ciência da Computação no Instituto Federal de São Paulo (IFSP).
-Participo do projeto de iniciação científica: Monitoramento Contínuo de Incêndios na Área de Proteção Ambiental da Chapada dos Guimarães em Mato Grosso  ### há 2 anos!!! 
+Participo do projeto de iniciação científica: Monitoramento Contínuo de Incêndios na Área de Proteção Ambiental da Chapada dos Guimarães em Mato Grosso  ** há 2 anos!!! ** 
 
 ## ⌛ Interesses
 
